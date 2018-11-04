@@ -1,0 +1,7 @@
+# Folders and files
+env
+activate
+.vscode
+
+# File patterns
+*.pyc
