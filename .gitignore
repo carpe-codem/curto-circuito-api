@@ -1,7 +1,10 @@
 # Folders and files
 env
+env2
 activate
 .vscode
+logs
 
 # File patterns
 *.pyc
+*.json
