@@ -12,7 +12,7 @@ enum34==1.1.6
 Fiona==1.8.0
 Flask==1.0.2
 Flask-API==1.0
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 geopandas==0.4.0
 googlemaps==3.0.2
 idna==2.7
